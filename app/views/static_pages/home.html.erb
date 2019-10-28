@@ -1,0 +1,13 @@
+<%= Gossip.all.each_with_index do |gossip,index| %>
+
+<p> <%= gossip.user.first_name%>
+<%=gossip.title %> 
+ <a href="/gossips/<%=index%>">Lien</a>  
+
+</p>
+
+
+<% end %>
+
+
+
