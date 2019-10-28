@@ -1,24 +1,4 @@
-# README
+Première partie du projet de la semaine : Faire un site Gossip en MVC en partant de zéro.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Le projet a été effectué entierement mais en mettant juste le minimum de CSS.
+Je n'ai pas compris comment utiliser le link_to avec les liens dynamiques.
