@@ -7,6 +7,7 @@ Je n'ai pas compris comment utiliser le link_to avec les liens dynamiques.
 ``` 
 Pour tester le projet :
 $ bundle install
+$ rails db:create
 $ rails db:migrate
 $ rails db:seed
 $ rails server
