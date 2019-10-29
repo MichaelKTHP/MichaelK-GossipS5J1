@@ -4,7 +4,8 @@ Le projet a été effectué entierement mais en mettant juste le minimum de CSS.
 Je n'ai pas compris comment utiliser le link_to avec les liens dynamiques.
 
 
-``` Pour tester le projet :
+``` 
+Pour tester le projet :
 $ bundle install
 $ rails db:migrate
 $ rails db:seed
